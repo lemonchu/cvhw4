@@ -1,5 +1,3 @@
 # Worklog
 
-We jumpstart by implementing [VLTSeg](https://arxiv.org/abs/2312.02021)
-
-Thank ZZY, HSB first, then move on.
+We jumpstart by implementing [DeepLabv3+](https://arxiv.org/abs/1802.026111)
