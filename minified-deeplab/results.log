@@ -1,0 +1,92 @@
+Fold 0:
+
+Epoch 162, Itrs 29990/30000, Loss=0.088644
+Epoch 162, Itrs 30000/30000, Loss=0.087539
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold0.pth
+validation...
+125it [00:28,  4.34it/s]
+
+Overall Acc: 0.955469
+Mean Acc: 0.830252
+FreqW Acc: 0.918580
+Mean IoU: 0.741181
+
+Fold 1:
+
+Epoch 162, Itrs 29990/30000, Loss=0.086819
+Epoch 162, Itrs 30000/30000, Loss=0.086369
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold1.pth
+validation...
+125it [00:28,  4.41it/s]
+
+Overall Acc: 0.953782
+Mean Acc: 0.817874
+FreqW Acc: 0.915585
+Mean IoU: 0.731493
+
+Fold 2:
+
+Epoch 162, Itrs 29990/30000, Loss=0.089264
+Epoch 162, Itrs 30000/30000, Loss=0.089237
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold2.pth
+validation...
+125it [00:28,  4.42it/s]
+
+Overall Acc: 0.954478
+Mean Acc: 0.839885
+FreqW Acc: 0.916717
+Mean IoU: 0.757885
+
+Fold 3:
+
+Epoch 162, Itrs 29990/30000, Loss=0.092763
+Epoch 162, Itrs 30000/30000, Loss=0.092232
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold3.pth
+validation...
+124it [00:31,  3.98it/s]
+
+Overall Acc: 0.951626
+Mean Acc: 0.828458
+FreqW Acc: 0.912152
+Mean IoU: 0.730783
+
+Fold 4:
+
+Epoch 162, Itrs 29990/30000, Loss=0.087233
+Epoch 162, Itrs 30000/30000, Loss=0.086072
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold4.pth
+validation...
+124it [00:29,  4.23it/s]
+
+Overall Acc: 0.955057
+Mean Acc: 0.823638
+FreqW Acc: 0.917409
+Mean IoU: 0.743194
+
+
+Fold 5:
+
+Epoch 162, Itrs 29990/30000, Loss=0.090778
+Epoch 162, Itrs 30000/30000, Loss=0.087212
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold5.pth
+validation...
+124it [00:28,  4.32it/s]
+
+Overall Acc: 0.954062
+Mean Acc: 0.812357
+FreqW Acc: 0.915897
+Mean IoU: 0.730260
+
+Fold 6: 
+
+Epoch 162, Itrs 29990/30000, Loss=0.095247
+Epoch 162, Itrs 30000/30000, Loss=0.090960
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold6.pth
+validation...
+124it [00:28,  4.34it/s]
+
+Overall Acc: 0.953865
+Mean Acc: 0.833012
+FreqW Acc: 0.915872
+Mean IoU: 0.743643
+

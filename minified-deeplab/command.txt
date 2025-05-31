@@ -1,0 +1,5 @@
+python main.py --dataset cityscapes --gpu_id 0  --lr 0.02  --crop_size 768 --batch_size 16 --output_stride 16 --data_root ./datasets/data/cityscapes 
+
+python main_fold.py --dataset cityscapes --gpu_id 0  --lr 0.02  --crop_size 768 --batch_size 16 --output_stride 16 --data_root ./datasets/data/cityscapes --fold 0
+
+# Dataset: cityscapes, Train set: 2975, Val set: 500

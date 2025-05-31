@@ -1,0 +1,9 @@
+Epoch 163, Itrs 30000/30000, Loss=0.092072
+Model saved as checkpoints/latest_deeplabv3plus_resnet101_cityscapes_os16.pth
+validation...
+125it [00:36,  3.43it/s]
+
+Overall Acc: 0.954643
+Mean Acc: 0.818439
+FreqW Acc: 0.916544
+Mean IoU: 0.740995
