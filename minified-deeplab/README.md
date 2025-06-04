@@ -7,12 +7,7 @@ Pretrained DeepLabv3, DeepLabv3+ for Pascal VOC & Cityscapes.
 ### 1. Available Architectures
 | DeepLabV3    |  DeepLabV3+        |
 | :---: | :---:     |
-|deeplabv3_resnet50|deeplabv3plus_resnet50|
 |deeplabv3_resnet101|deeplabv3plus_resnet101|
-|deeplabv3_mobilenet|deeplabv3plus_mobilenet ||
-|deeplabv3_hrnetv2_48 | deeplabv3plus_hrnetv2_48 |
-|deeplabv3_hrnetv2_32 | deeplabv3plus_hrnetv2_32 |
-|deeplabv3_xception | deeplabv3plus_xception |
 
 please refer to [network/modeling.py](https://github.com/VainF/DeepLabV3Plus-Pytorch/blob/master/network/modeling.py) for all model entries.
 
