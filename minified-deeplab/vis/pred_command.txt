@@ -1,0 +1,1 @@
+python predict.py --ckpt "./checkpoints/best_deeplabv3plus_resnet101_cityscapes_os16_kfold7_fold2.pth" --crop_size 768 --output_stride 16 --dataset cityscapes --save_val_results_to ./vis/output --input ./vis/frankfurt_000000_000294_leftImg8bit.png
